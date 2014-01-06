@@ -1,0 +1,80 @@
+@import "compass";
+@import "theme_variables";
+/* block top search */
+#search_block_top {
+	padding: 50px 0 0 0;
+	@media (max-width: $screen-sm) {
+		padding-top: 0;
+	}
+	.btn.button-search {
+		background: $dark-background;
+		display: block;
+		position: absolute;
+		top: 0;
+		right: 0;
+		border: none;
+		color: $light-text-color;
+		width: 50px;
+		text-align: center;
+		padding: 10px 0 11px 0;
+		span {
+			display: none;
+		}
+		&:before {
+			content: "\f002";
+			display: block;
+			font-family: $font-icon;
+			font-size: 17px;
+			width: 100%;
+			text-align: center;
+		}
+		&:hover {
+			color: #6f6f6f
+		}
+	}
+	#search_query_top {
+		display: inline;
+		padding: 0 13px;
+		height: 45px;
+		line-height: 45px;
+		background: $base-box-bg;
+		margin-right: 1px;
+	}
+}
+
+.ac_results {
+	background: $light-background;
+	border: 1px solid $base-border-color;
+	width: 271px;
+	margin-top: -1px;
+	li {
+		padding: 0 10px;
+		font-weight: normal;
+		color: #686666;
+		font-size: 13px;
+		line-height: 22px;
+		&.ac_odd {
+			background: $light-background;
+		}
+		&:hover, &.ac_over {
+			background: $base-box-bg;	
+		}
+	}
+}	
+
+form#searchbox {
+	padding: 0 50px 0 0;
+	position: relative;
+	label {
+		color: $base-text-color;
+		margin-bottom: 1px
+	}
+	input#search_query_block {
+		border: 1px solid $base-border-color;
+		height: 18px;
+		margin-top: 10px;
+	}
+	input#search_button {
+		padding: 1px 4px;
+	}
+}

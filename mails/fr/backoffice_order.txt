@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Bonjour {firstname} {lastname}, 
+
+Une nouvelle commande a été générée à votre demande. 
+
+Please go on {order_link}
+[{order_link}] to finalize the payment.
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+
