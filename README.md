@@ -1,4 +1,4 @@
-e-comerce
+e-commerce
 =========
 
 I- Présentation
