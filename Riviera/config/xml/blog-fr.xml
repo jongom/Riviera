@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog FR</title>
+	<atom:link href="http://www.prestashop.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.prestashop.com/blog/fr</link>
+	<description></description>
+	<lastBuildDate>Mon, 06 Oct 2014 15:49:29 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4</generator>
+		<item>
+		<title>Créer une boutique en ligne : 10 choses à savoir avant de se lancer</title>
+		<link>http://www.prestashop.com/blog/fr/creer-une-boutique-en-ligne-10-choses-a-savoir-avant-de-se-lancer/</link>
+		<comments>http://www.prestashop.com/blog/fr/creer-une-boutique-en-ligne-10-choses-a-savoir-avant-de-se-lancer/#comments</comments>
+		<pubDate>Mon, 06 Oct 2014 14:25:55 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17387</guid>
+		<description><![CDATA[Le blogueur Jérome Cathaud, directeur des opérations d&#8217;une agence Web, partage son expérience de création de sites marchands. Ce qui prend beaucoup de temps quand on lance ou qu&#8217;on repositionne un site c&#8217;est de créer une boutique en ligne à &#8230; <a href="http://www.prestashop.com/blog/fr/creer-une-boutique-en-ligne-10-choses-a-savoir-avant-de-se-lancer/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><em>Le blogueur Jérome Cathaud, directeur des opérations d&#8217;une agence Web, partage son expérience de création de sites marchands.</em></p>
+<p>Ce qui prend beaucoup de temps quand on lance ou qu&#8217;on repositionne un site c&#8217;est de créer une boutique en ligne à la fois unique et efficace. Il suffit pourtant de bien préparer son projet pour que tout se déroule au mieux.</p>
+<p>Je travaille avec des dizaines de marchands aux besoins très divers et, avant de créer une boutique en ligne, je passe toujours en revue une liste de 10 choses importantes. Tous ces éléments sont subtilement liés les uns aux autres et c&#8217;est en les analysant avec soin qu&#8217;on réalise du bon travail.</p>
+<p><img class="aligncenter size-large wp-image-17388" title="10-design" src="http://www.prestashop.com/blog/fr/files/2014/10/10-design-1024x537.jpg" alt="" width="584" height="306" /></p>
+<p><span id="more-17387"></span></p>
+<h4><span style="color: #31429a;">1. Définissez vos objectifs</span></h4>
+<p>Avant de commencer un projet, il faut définir un objectif clair et des étapes pour l&#8217;atteindre, car cela permet de rester concentré sur le but final. Pourquoi lancez-vous un site e-commerce ? S&#8217;agit-il de remanier un site existant ou de lancer un nouveau projet ? Vous pourriez, par exemple, fixer un objectif principal consistant à accroître votre part de marché et un objectif secondaire destiné à changer l&#8217;image de votre entreprise aux yeux des clients.</p>
+<h4><span style="color: #31429a;">2. Mettez en avant votre image</span></h4>
+<p>Votre site doit refléter visuellement et structurellement l&#8217;identité de votre entreprise, votre image et, plus généralement, les valeurs fondamentales à communiquer à vos clients. Cela commence souvent par l&#8217;évaluation de votre logo, car il est censé symboliser tous ces aspects. Un bon logo facilite la définition de la charte graphique et l&#8217;esthétique générale du nouveau site. Si votre logo ne vous satisfait pas, il faut peut-être le faire évoluer avant de créer le nouveau site.</p>
+<h4><span style="color: #31429a;">3. Réfléchissez à vos produits</span></h4>
+<p>Que vendez-vous et comment le vendez-vous ? Chaque secteur est différent et vos produits doivent donc être présentés d&#8217;une manière spécifique. Tous les produits ont leurs caractéristiques propres qu&#8217;il convient de prendre en compte : couleur, taille, accessoires, technologie, etc. Ce raisonnement vous aidera à prendre certaines décisions, par exemple à savoir si vos <a href="http://www.prestashop.com/blog/fr/5-exemples-de-pages-produits-e-commerce-qui-convertissent/" target="_blank">pages produits</a> doivent être aussi simples que possible ou très détaillées.</p>
+<h4><span style="color: #31429a;">4. Ciblez votre marché</span></h4>
+<p>Qu&#8217;est-ce qui définit votre marché cible ? L&#8217;interface de votre boutique e-commerce doit être adaptée à vos clients et il est donc essentiel de comprendre qui ils sont, quel est leur profil de comportement quand ils cherchent ou achètent des produits et si-ce comportement répond à certains modèles. Comprendre votre cible marketing permet également de mieux définir l&#8217;expérience utilisateur à mettre en œuvre sur votre site et de choisir le niveau d&#8217;innovation en fonction de la capacité des utilisateurs à s&#8217;approprier votre interface.</p>
+<p>Par exemple, en ciblant les jeunes consommateurs vous pouvez « oser » davantage et innover en termes d&#8217;expérience utilisateur, car les jeunes s&#8217;adaptent plus facilement aux nouveaux modes de découverte ou d&#8217;achat de produits par rapport aux personnes plus âgées.</p>
+<h4><span style="color: #31429a;">5. Dépassez la concurrence</span></h4>
+<p>Il faut tout d&#8217;abord évaluer la concurrence : qui sont vos concurrents et comment gèrent-ils leur site e-commerce ? Bon nombre d&#8217;éléments doivent souvent être pris en compte pour définir des pratiques commerciales efficaces. Il ne s&#8217;agit toutefois pas de copier ce que font les autres, mais plutôt de trouver ce qu&#8217;ils ne font « pas » correctement (le cas échéant) afin de le mettre en œuvre sur votre propre site et ainsi créer une réelle différence.</p>
+<h4><span style="color: #31429a;">6. Définissez un budget</span></h4>
+<p>Lancer un site e-commerce professionnel n&#8217;est pas chose facile : vous devez investir dans un outil essentiel qui va conditionner la bonne marche de votre entreprise. Un site e-commerce, c&#8217;est à la fois un expert, un commercial, un caissier, etc., le tout réuni sous la forme d&#8217;une interface unique. Il est donc essentiel de prévoir un budget permettant d&#8217;acquérir un outil efficace.</p>
+<h4><span style="color: #31429a;">7. Dressez la liste de vos besoins</span></h4>
+<p>Faites les bons choix techniques en fonction de ce qui précède : objectif, produit, public, etc. Cela concerne des pages spécifiques, les modules, l&#8217;hébergement, les abonnements email, le blog, etc. Il faut aussi penser à ce qui est lié à votre site, par ex. les solutions d&#8217;emailing, les médias sociaux et <a href="http://www.prestashop.com/blog/fr/complete-introduction-au-blogging-e-commerce/" target="_blank">la stratégie de contenu</a>.</p>
+<h4><span style="color: #31429a;">8. Élaborez un plan</span></h4>
+<p>Rédigez un plan contenant un descriptif détaillé du projet avec tous les éléments ci-dessus. Ce document va non seulement rationaliser vos idées, mais il va aussi servir de référence à consulter chaque fois que nécessaire pendant la durée du projet. Ainsi, vous pourrez prendre du recul, identifier les points faibles et trouver des solutions. Dernier point et non des moindres, un tel document est essentiel pour travailler avec un créateur professionnel de sites et lancer le projet dans des conditions idéales.</p>
+<h4><span style="color: #31429a;">9. Étudiez la possibilité de travailler avec un expert</span></h4>
+<p>Vous voilà maintenant informé. Vous devez savoir si un <a href="http://addons.prestashop.com/fr/3-themes-prestashop" target="_blank">template PrestaShop</a> opourra répondre à vos besoins ou si vous devez travailler avec une <a href="http://www.prestashop.com/fr/agences-web-partenaires" target="_blank">agence ou un freelance PrestaShop</a>.</p>
+<p>Si vous optez pour un expert, choisissez quelqu&#8217;un de compétent dont vous appréciez les précédentes réalisations et en qui vous avez confiance. Vous devez choisir le bon partenaire pour ce projet : quelqu&#8217;un qui pourra suggérer des solutions adaptées en fonction des éléments ci-dessus. La création d&#8217;un site e-commerce personnalisé n&#8217;est pas facile et exige une grande communication avec votre partenaire. Il faut donc choisir intelligemment quelqu&#8217;un de fiable.</p>
+<h4><span style="color: #31429a;">10. Spécifications fonctionnelles</span></h4>
+<p>La conception de votre site doit prendre en compte tous les aspects de votre projet et ses divers paramètres (fonctionnalités, charte graphique, etc.). Il faut vérifier que ce processus respecte toutes les spécifications et aboutit à un site qui répond à votre objectif initial.</p>
+<p>Certaines difficultés devront être évitées. Parmi elles, l&#8217;approche sentimentale : c&#8217;est votre projet, votre « enfant », mais il faut savoir écarter votre propre subjectivité et juger en termes de fonctionnalité et d&#8217;efficacité. C&#8217;est également la raison pour laquelle il convient de choisir un partenaire capable de vous conseiller non pas superficiellement, mais de concilier à la fois ce que vous aimez et ce dont votre entreprise a réellement besoin.</p>
+<p>&#8211;</p>
+<p><em>Jerome Cathaud joue un rôle majeur, depuis 3 ans, dans l&#8217;expansion aux États-Unis de <a href="http://www.prestashop.com/fr/agences-web-partenaires/platinum/newquest" target="_blank">NewQuest</a> agence Web expérimentée certifiée PrestaShop Platinum, avec des bureaux à Philadelphie, Chambéry &amp; Sydney. Il a ainsi accompagné divers projets, notamment d’e-commerce et de sites à but non lucratif, et a mis en œuvre des outils numériques innovants pour des clients comme Franklin Institute ou Pennsylvania Wines. Il possède un Master en marketing international et est également graphiste autodidacte.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/creer-une-boutique-en-ligne-10-choses-a-savoir-avant-de-se-lancer/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Comment trouver les bons mots clés pour le SEO de votre site ecommerce &#8211; Partie 1/2</title>
+		<link>http://www.prestashop.com/blog/fr/comment-trouver-les-bons-mots-cles-pour-le-seo-de-votre-site-ecommerce-partie-12/</link>
+		<comments>http://www.prestashop.com/blog/fr/comment-trouver-les-bons-mots-cles-pour-le-seo-de-votre-site-ecommerce-partie-12/#comments</comments>
+		<pubDate>Wed, 01 Oct 2014 14:36:57 +0000</pubDate>
+		<dc:creator>Gary Le Masson</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17346</guid>
+		<description><![CDATA[Saviez-vous que 75 % des internautes ne vont pas plus loin que la première page de résultats sur les moteurs de recherche ? Ou encore que 70 à 80 % d&#8217;entre eux ignorent les résultats sponsorisés pour se concentrer exclusivement &#8230; <a href="http://www.prestashop.com/blog/fr/comment-trouver-les-bons-mots-cles-pour-le-seo-de-votre-site-ecommerce-partie-12/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Saviez-vous que <a href="http://blog.hubspot.com/blog/tabid/6307/bid/14416/100-Awesome-Marketing-Stats-Charts-Graphs-Data.aspx" target="_blank">75 % des internautes ne vont pas plus loin que la première page</a> de résultats sur les moteurs de recherche ? Ou encore que 70 à 80 % d&#8217;entre eux ignorent les résultats sponsorisés <a href="http://searchengineland.com/eye-tracking-study-everybody-looks-at-organic-listings-but-most-ignore-paid-ads-on-right-67698" target="_blank">pour se concentrer exclusivement sur les résultats naturels </a>? Autrement dit, le référencement naturel est essentiel pour diriger les clients potentiels vers votre boutique en ligne.</p>
+<p><a href="http://www.prestashop.com/blog/en/files/2014/10/Keyword-PT-1.jpg"><img class="aligncenter size-large wp-image-18550" src="http://www.prestashop.com/blog/en/files/2014/10/Keyword-PT-1-1024x307.jpg" alt="" width="584" height="175" /></a></p>
+<p>Dans cet article en deux parties, nous allons vous guider pour trouver les bons mots-clés pour votre boutique en ligne. Nous vous donnerons ensuite des conseils afin de vous aider à les utiliser correctement pour optimiser le positionnement SEO de votre boutique. La première partie du guide des mots-clés pour l&#8217;optimisation du référencement naturel va vous aider à dynamiser le trafic sur votre boutique en ligne.</p>
+<p><span id="more-17346"></span></p>
+<h2><span style="color: #009bdf;">Concepts de base du référencement naturel</span></h2>
+<p>Au cas où vous ne saviez pas encore qu&#8217;est-ce que le SEO ou référencement naturel, il s&#8217;agit de l&#8217;ensemble des pratiques consistant à optimiser la présence d&#8217;un site Web sur les Moteurs de recherches. Pour schématiser (et simplifier) on parle de 50% de pertinence d&#8217;un site et d&#8217;une vis à vis de mots clés et de 50% de popularité grâce aux nombre et à la qualité des liens pointant vers ce même site. La grande particularité de ce canal d&#8217;acquisition est qu&#8217;il est déterminé par Google avec son algorithme de recherche : Il représente à la fois des visites gratuites pour votre boutique mais peut également prendre un temps certain avant de parvenir aux sommets.</p>
+<h2><span style="color: #009bdf;">Comment trouver les mots-clés adaptés à votre boutique en ligne</span></h2>
+<p>En matière de SEO pour l&#8217;ecommerce, il est essentiel de trouver les bons mots-clés. Vous avez besoin de mots-clés qui :<br />
+• Génèrent du trafic qualifié de clients qui iront acheter des produits sur votre site de vente en ligne.<br />
+• Permettent à votre boutique de se positionner facilement dans les résultats des recherches en ciblant les mots-clés moins concurrentiels (facile à moyen) au début. (Pour vous positionner sur les mots-clés les plus concurrentiels, nous vous invitons à contacter une <a href="http://www.prestashop.com/fr/agences-web-partenaires" target="_blank">Agence ou un spécialiste de recherche marketing</a> certifié(e) PrestaShop).</p>
+<h2><span style="color: #009bdf;">Quels mots-clés permettent de générer du trafic qualifié ?</span></h2>
+<p>Posez-vous ces deux questions simples pour trouver les mots-clés les mieux adaptés à votre boutique. Il y a 100 % de chances pour que les réponses correspondent aux mots-clés que vous recherchez.</p>
+<ol>
+<li>Quels produits vendez-vous sur votre site e-commerce ?</li>
+<li>Quels types de mots-clés vos futurs clients sont-ils susceptibles de taper pour trouver vos produits ?</li>
+</ol>
+<p>Tout au long de cet article, nous vous fournirons des exemples adaptés à une boutique en ligne vendant des pièces détachées automobiles.</p>
+<ol>
+<li>Mon site de vente en ligne vend des « <strong>pièces détachées automobiles </strong>», et plus précisément des « <strong>pièces détachées automobiles des années 70</strong> » et même des « <strong>pièces détachées pour Ford Mustang</strong> ».</li>
+<li>« <strong>pare-chocs endommagé sur voiture des années 70</strong> », « <strong>pièces détachées pour Ford Mustang 1970</strong> », « <strong>pare-chocs pas cher pour Ford Mustang</strong> »</li>
+</ol>
+<h2><span style="color: #009bdf;">Comment savoir si un mot-clé vous permettra d&#8217;être bien référencé ?</span></h2>
+<p>Les volumes de recherche de mot-clé nous en disent beaucoup sur l&#8217;importance des mots-clés sur les marchés cibles. Ils nous permettent de comparer de multiples mots-clés tout en découvrant de quelle manière les internautes effectuent leurs recherches.</p>
+<p>Des données relatives aux volumes de recherche sont disponibles gratuitement grâce à l&#8217;outil de planification des mots-clés de Google AdWords. Pour y accéder, vous devez d&#8217;abord créer un <a href="https://services.google.com/fb/forms/offregoogleprestashop/" target="_blank">Google AdWords</a>.</p>
+<p><strong>2 étapes pour trouver des mots-clés adaptés à votre activité</strong><br />
+Une fois que vous avez créé un compte, cliquez sur l&#8217;outil de planification de mots-clés dans l&#8217;onglet Outils.<br />
+<img class="aligncenter size-full wp-image-18537" src="http://www.prestashop.com/blog/en/files/2014/10/SEO-1.png" alt="" width="580" height="210" /><br />
+1. Choisissez « Rechercher des idées de mots-clés et de groupes d’annonces »</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-18538" src="http://www.prestashop.com/blog/en/files/2014/10/SEO-2.png" alt="" width="350" height="252" />.</p>
+<p>2. Remplissez l&#8217;outil de planification de mots-clés de Google</p>
+<ol>
+<li>Collez vos idées de mots-clés issues des étapes précédentes</li>
+<li>Sélectionnez le ou les pays cibles</li>
+<li>Sélectionnez la ou les langues cibles</li>
+<li>Cliquez sur « Obtenir des idées »</li>
+<li>Vous pouvez visualiser les suggestions de Google en dessous de l&#8217;onglet Idées de mots-clés.</li>
+</ol>
+<p><img class="aligncenter size-full wp-image-18539" src="http://www.prestashop.com/blog/en/files/2014/10/SEO-3.png" alt="" width="580" height="686" /></p>
+<p><img class="aligncenter size-full wp-image-18540" src="http://www.prestashop.com/blog/en/files/2014/10/SEO-4.png" alt="" width="580" height="295" /></p>
+<p>Voici notre premier ensemble de mots-clés :</p>
+<p style="padding-left: 30px;">• Pièces détachées automobiles<br />
+• Pièces détachées automobiles pour voiture des années 70<br />
+• Pièces détachées pour Ford Mustang<br />
+• Pare-chocs endommagé sur voiture des années 70<br />
+• Pièces détachées pour Ford Mustang 1970<br />
+• Pare-chocs pas cher pour Ford Mustang</p>
+<p>En suivant ces étapes, nous pouvons voir le volume de recherche de chaque mot-clé et bénéficier d&#8217;une bonne vue d&#8217;ensemble du niveau de concurrence. Google AdWords vous propose également des termes liés qui pourraient être intéressants pour votre boutique en ligne.</p>
+<p>N&#8217;oubliez pas de tenir compte des volumes de recherche. Plus ils sont élevés, plus il est difficile d&#8217;apparaitre sur la première page de résultats de Google. Par ailleurs, n&#8217;oubliez pas que ce n&#8217;est pas parce qu&#8217;un mot-clé indique un volume égal à 0 qu&#8217;il ne faut pas le cibler, car quand on ajoute tous ces mots clés cela forme les « <a href="http://www.wordstream.com/long-tail-keywords" target="_blank">mots-clés de la longue traine</a> ».</p>
+<p><img class="aligncenter size-full wp-image-18541" src="http://www.prestashop.com/blog/en/files/2014/10/SEO-5.png" alt="" width="580" height="193" /></p>
+<p>Vous souhaitez connaître d&#8217;autres moyens de trouver des mots-clés ? Visitez Search Engine Land’s <a href="http://searchengineland.com/the-giant-list-of-keyword-tools-41678" target="_blank">giant list of keyword tools</a> pour trouver encore plus de suggestions de mots clés.</p>
+<p>Avez-vous trouvé la première partie de notre Guide des mots-clés pour l&#8217;optimisation du référencement naturel utile ? Faites-nous part de vos commentaires ci-dessous et n&#8217;hésitez pas à nous poser des questions !</p>
+<div>
+<hr align="left" size="2" width="20%" />
+</div>
+<p>Vous êtes prêt à apparaitre sur la première page de résultats Google grâce à des mots-clés pertinents ? Restez à l&#8217;écoute pour découvrir la deuxième partie de notre Guide des mots-clés pour l&#8217;optimisation du référencement naturel. En attendant, vous pouvez <a href="http://www.prestashop.com/fr/telechargement" target="_blank">télécharger</a> le logiciel e-commerce gratuit et libre de PrestaShop pour bénéficier de fonctionnalités avancées et intégrées en matière de référencement naturel.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/comment-trouver-les-bons-mots-cles-pour-le-seo-de-votre-site-ecommerce-partie-12/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PrestaShop dans le cloud en Beta, questions/réponses</title>
+		<link>http://www.prestashop.com/blog/fr/prestashop-dans-le-cloud-en-beta-questionsreponses/</link>
+		<comments>http://www.prestashop.com/blog/fr/prestashop-dans-le-cloud-en-beta-questionsreponses/#comments</comments>
+		<pubDate>Mon, 29 Sep 2014 15:09:34 +0000</pubDate>
+		<dc:creator>Xavier du Tertre</dc:creator>
+				<category><![CDATA[Actualités PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17341</guid>
+		<description><![CDATA[Mardi dernier nous avons annoncé à l’occasion du salon e-commerce Paris le lancement bêta de notre solution e-commerce cloud ! Quelles sont les particularités de cette solution e-commerce cloud? Elle est totalement gratuite !! Vous pourrez désormais bénéficier d&#8217;une plateforme &#8230; <a href="http://www.prestashop.com/blog/fr/prestashop-dans-le-cloud-en-beta-questionsreponses/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Mardi dernier nous avons annoncé à l’occasion du salon e-commerce Paris le lancement bêta de notre solution e-commerce cloud !</p>
+<p style="text-align: center;"><a title="PrestaShop Beta" href="http://www.prestashop.com/blog/en/files/2014/09/Home1.png" target="_blank"><img class=" wp-image-18486 aligncenter" title="Home Beta" src="http://www.prestashop.com/blog/en/files/2014/09/Home1-1024x447.png" alt="PrestaShop Beta" width="584" height="254" /></a></p>
+<p><span id="more-17341"></span></p>
+<p>Quelles sont les particularités de cette solution e-commerce cloud? Elle est totalement gratuite !! Vous pourrez désormais bénéficier d&#8217;une plateforme e-commerce qui offre une liberté totale. Nous ne vous demanderons jamais votre numéro de carte de crédit pour faire fonctionner votre boutique en ligne et cela est valable pour la version bêta comme pour toutes les versions suivantes ! Il vous suffit de saisir votre adresse e-mail pour créer votre boutique en ligne en quelques minutes.</p>
+<p>Vous êtes déjà très nombreux à vous être inscrits sur la version bêta. Nous avons reçu un grand nombre de commentaires et nous sommes ravis que notre solution vous plaise.<br />
+Nous savons que toute nouvelle solution fait l&#8217;objet de nombreuses interrogations. Voici donc une liste de réponses aux questions les plus fréquemment posées. C&#8217;est parti !</p>
+<h4><span style="color: #3498db;">Comment pouvons-nous proposer une solution cloud totalement gratuite ?</span></h4>
+<p>De la même façon que le téléchargement du logiciel est gratuit, nous nous appuyons pour cette nouvelle solution cloud sur les partenariats que nous avons établis avec les leaders du secteur et sur les milliers de fonctionnalités supplémentaires disponibles via PrestaShop Addons. Ces partenariats et ces modules complémentaires vous permettent d&#8217;accéder à toute une gamme d&#8217;outils assurant le succès de votre boutique en ligne et permettent également à PrestaShop de garantir la gratuité de ses solutions.</p>
+<h4><span style="color: #3498db;">L&#8217;hébergement est gratuit, mais est-il efficace ?</span></h4>
+<p>Nous savons que la réussite d&#8217;une boutique en ligne dépend de la vitesse et des performances de son site. C&#8217;est pourquoi nous travaillons avec une référence de l&#8217;hébergement, OVH. La société compte plus de 700 000 clients dans le monde et ses serveurs sont équipés des tout derniers processeurs Intel et de SSD haute performance pour assurer un processus de prise de commande et de vente sur votre boutique d&#8217;une rapidité inégalée.</p>
+<h4><span style="color: #3498db;">Y’a t-il une différence de logiciel ou de version ?</span></h4>
+<p>Pas du tout. C&#8217;est le même logiciel et la même version. PrestaShop reste PrestaShop ! Le moteur est le même, mais il existe désormais deux façons d’y accéder !<br />
+Notre solution cloud fonctionne déjà avec la toute dernière version de Prestashop que vous connaissez et appréciez tant. Quand nous mettrons à jour la version téléchargeable, nous mettrons également à jour notre solution cloud. Vous pourrez toujours télécharger Prestashop et les contributions apportées par les développeurs de la communauté sur GitHub seront disponibles sur le logiciel Prestashop, qu&#8217;il ait été téléchargé, hébergé et installé manuellement ou installé via le cloud en un clic ! </p>
+<h4><span style="color: #3498db;">Comment participer aux tests ?</span></h4>
+<p>Pour l&#8217;instant, l&#8217;accès à notre site bêta est restreint à un petit nombre d&#8217;utilisateurs, mais nous allons libérer de nouveaux créneaux d&#8217;ici quelques jours. Inscrivez-vous sur www.prestashop.com/fr/beta et partagez la nouvelle sur les réseaux sociaux pour accéder plus vite à la version bêta.</p>
+<h4><span style="color: #3498db;">Est-il possible de créer une boutique fonctionnelle sur cette version bêta ?</span></h4>
+<p>Bien sûr ! Ce nouveau programme PrestaShop est parfaitement fonctionnel et permet de se lancer dans le commerce en ligne. Ce site est en version bêta pour que nous puissions optimiser au maximum l&#8217;expérience utilisateur. Votre nouvelle boutique en ligne reposera sur PrestaShop version 1.6, que vous connaissez bien, puisque ce logiciel e-commerce a déjà permis la création de dizaines de milliers de boutiques en ligne partout dans le monde.<br />
+Laissez libre cours à votre imagination ! Créez votre site marchand, mettez-le en ligne et personnalisez-le en ajoutant des modules ! Votre boutique sera toujours fonctionnelle, même une fois la phase bêta terminée. Nous vous invitons à nous signaler tout dysfonctionnement via l’onglet Feedback présent dans la solution.</p>
+<h4><span style="color: #3498db;">Gratuit ? Est-ce trop beau pour être vrai ?</span></h4>
+<p>C’est bien réel, PrestaShop est totalement gratuit ! C&#8217;est une solution e-commerce exhaustive regroupant des milliers de fonctionnalités prêtes à l&#8217;emploi et adaptées aux boutiques en ligne. Si vous le voulez, vous pouvez aussi investir dans des fonctionnalités supplémentaires ou souscrire aux divers services proposés par PrestaShop comme une assistance premium ou des séances de formation.<br />
+Nous avons pour mission de permettre à toute personne, partout dans le monde, d&#8217;ouvrir une boutique en ligne rentable. Chez PrestaShop, nous faisons tomber les barrières de l&#8217;e-commerce ! </p>
+<h4><span style="color: #3498db;">Quelles possibilités de personnalisation offre cette plateforme cloud ?</span></h4>
+<p>Vous avez un accès aux fichiers de thèmes, de modules et aux overrides, vous pouvez donc entièrement personnaliser votre boutique, tant en termes d&#8217;interfaces que de fonctionnalités. Les modules et thèmes disponibles sur PrestaShop Addons vous permettront également une personnalisation de votre boutique à l’infini. </p>
+<h4><span style="color: #3498db;">Ce passage au cloud implique-t-il la fin de l&#8217;Open source ?</span></h4>
+<p>Pas du tout ! « PrestaShop a toujours été et sera toujours un logiciel Open source gratuit » a confirmé son fondateur Bruno Lévèque lors du salon e-commerce Paris. Ce nouveau programme offre tout simplement une alternative pour accéder à PrestaShop et repose toujours sur les principes de l&#8217;Open source. Le code du logiciel est ouvert et disponible sur la plateforme open source Github pour que tout le monde puisse bénéficier de la solution PrestaShop et cela ne changera pas. Que vous hébergiez vous-même le logiciel ou qu&#8217;il se trouve dans le cloud PrestaShop, le code reste identique. La solution cloud de PrestaShop reflète notre volonté constante de mettre l&#8217;e-commerce à la disposition de tous, en supprimant les obstacles techniques et financiers.<br />
+Loin d&#8217;être laissée de côté, la version téléchargeable de la solution va largement bénéficier du développement dynamique de PrestaShop : à l&#8217;instar de ce que WordPress a fait pour le blogging, nous proposons aux e-commerçants et développeurs un logiciel unique ainsi que deux solutions pour y accéder. Cette approche nous permet de répondre à différents besoins, en respectant nos valeurs fondamentales : gratuité et open source.</p>
+<h4><span style="color: #3498db;">Qu&#8217;en est-il des modules complémentaires ? Pourquoi mon module ne s&#8217;affiche-t-il pas dans ma boutique bêta ?</span></h4>
+<p>Pour garantir la simplicité et la sécurité et veiller au respect des meilleures pratiques, les modules qui peuvent être installés dans la version cloud de PrestaShop doivent être validés et commercialisés via PrestaShop Addons. L&#8217;utilisateur peut ainsi trouver toutes les extensions dont il a besoin sur une plateforme unique. Cela permet également de garantir que les modules fonctionnent correctement sur votre boutique en ligne. Au-delà de ça, c’est surtout l’assurance d’une inter-compatibilité des modules accrue et de mises à jour plus fluides que jamais.<br />
+Garant de la qualité des modules, PrestaShop Addons est également avantageux pour les développeurs de modules et de thèmes : cela leur permet de gagner en visibilité tout en boostant leurs ventes sur la place de marché officielle.<br />
+Si vous suivez les directives de notre documentation dans le cadre de vos activités de développement pour PrestaShop, vos modules fonctionneront sur notre solution hébergée. Veillez à suivre les règles de conception des modules pour garantir leur compatibilité avec toutes les boutiques PrestaShop.</p>
+<h4><span style="color: #3498db;">Qu&#8217;en est-il des agences web et des freelances ?</span></h4>
+<p>Notre solution hébergée convient parfaitement aux commerçants, mais pas seulement. C’est également une formidable opportunité pour les agences web et les freelances. Vous pouvez désormais étendre votre offre aux plus petits e-commerçants : c’est une nouvelle corde à votre arc, sans frais supplémentaire pour votre entreprise.<br />
+La solution dans le cloud de PrestaShop permet aux commerçants ayant très peu ou pas de connaissances techniques de se lancer dans l&#8217;e-commerce, en quelques minutes seulement. L’offre dans le domaine d’activité des freelances et agences web  s’étend donc à une multitude de prospects à la recherche de prestataires dans les domaines de la conception, du développement et de l&#8217;assistance (technique ou autre). En tant que technicien expérimenté, vous pourrez pleinement tirer parti de vos accès aux fichiers de thèmes, modules et overrides.<br />
+Cette solution e-commerce cloud unique constitue une véritable révolution, qui va renforcer l&#8217;image de marque de PrestaShop et, par la même occasion, votre statut d&#8217;expert.</p>
+<p>&#8212;&#8212;</p>
+<p>Merci de faire partie de notre incroyable communauté open source. La clef de notre succès, c&#8217;est vous !<br />
+Grâce à votre soutien et votre fidélité, notre communauté compte aujourd&#8217;hui près de 700 000 membres. Nous n’oublierons jamais d’où nous venons ainsi que nos valeurs fondatrices.    </p>
+<p style="padding-left: 30px; color: #99cc00;">« <em>L&#8217;open source fait partie de l&#8217;identité de PrestaShop depuis le début. Avec l&#8217;aide de notre incroyable communauté, nous avons construit PrestaShop en nous appuyant sur les principes d&#8217;accessibilité, de flexibilité et de réduction des coûts pour l’utilisateur grâce à l&#8217;open source. Alors que nous continuons à nous développer et à innover, la collaboration et l&#8217;ouverture restent au cœur de notre approche. </em>» <strong>– Bruno Lévêque, Fondateur</strong></p>
+<p>Et ce n&#8217;est qu&#8217;un aperçu de ce qui reste à venir. Si vous avez d’autres questions, n’hésitez pas à nous les envoyer via l’onglet Feedback présent dans la version cloud de PrestaShop. Restez connectés ! Nous vous présenterons bientôt plus en détail notre solution d’ e-commerce pour tous !</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/prestashop-dans-le-cloud-en-beta-questionsreponses/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Success Stories : SelfPackaging, de jolies petites boîtes</title>
+		<link>http://www.prestashop.com/blog/fr/success-stories-selfpackaging-de-jolies-petites-boites/</link>
+		<comments>http://www.prestashop.com/blog/fr/success-stories-selfpackaging-de-jolies-petites-boites/#comments</comments>
+		<pubDate>Wed, 24 Sep 2014 00:00:11 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Success Story]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17326</guid>
+		<description><![CDATA[SelfPackaging est une boutique en ligne espagnole qui propose un large éventail de boîtes à un prix très raisonnable et sans subir des délais de livraison interminables. Notre idée est d&#8217;appliquer le concept du « Do It Yourself » au &#8230; <a href="http://www.prestashop.com/blog/fr/success-stories-selfpackaging-de-jolies-petites-boites/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><a href="http://selfpackaging.com/" target="_blank">SelfPackaging </a>est une boutique en ligne espagnole qui propose un large éventail de boîtes à un prix très raisonnable et sans subir des délais de livraison interminables. Notre idée est d&#8217;appliquer le concept du « Do It Yourself » au monde du packaging, en démontrant que monter ses propres boîtes cadeaux est non seulement facile et économique, mais aussi très amusant.</p>
+<p>Nous avons rencontré les talentueux membres de l&#8217;équipe de SelfPackaging à l&#8217;eShow de Barcelone, puis nous avons interviewé Eva Rodríguez, stratège en médias sociaux, pour qu&#8217;elle nous raconte comment les transformations apportées au site SelfPackaging.es ont permis de rencontrer un tel succès.<br />
+<span id="more-17326"></span></p>
+<p><img class="aligncenter size-full wp-image-18509" src="http://www.prestashop.com/blog/en/files/2014/09/selfpackaging-1.png" alt="" width="600" height="341" /></p>
+<h4><span style="color: #33cccc;">Parlez-nous un peu de vous, de votre équipe et de SelfPackaging</span></h4>
+<p>Nous avions déjà 20 ans d&#8217;expérience dans le secteur du packaging. Avec le développement d&#8217;Internet, nous avons voulu profiter des opportunités qu&#8217;offraient les nouvelles technologies.<br />
+L’équipe en charge de la stratégie online est composée de : Olga, chargée de la gestion des comptes Twitter et Facebook du site Selfpackaging.es, Elisabeth, chargée des réseaux sociaux en anglais (<a href="http://www.selfpackaging.com/" target="_blank">selfpackaging.com</a>), Nuria pour les réseaux sociaux en français (<a href="http://selfpackaging.fr" target="_blank">selfpackaging.fr</a>) et moi (Eva), qui coordonne la stratégie marketing et le fonctionnement du web avec l&#8217;équipe de programmation.<br />
+La création manuelle est gérée par : Laura et de Mireia, à la conception des boîtes, de l&#8217;atelier de production et de l&#8217;équipe informatique externe.</p>
+<p>SelfPackaging permet, comme son nom l&#8217;indique, de « réaliser des boîtes en carton soi-même », d&#8217;une manière très simple et rapide.</p>
+<p>Le processus d’achat et de personnalisation est également très facile :</p>
+<p style="padding-left: 30px;">1. Vous choisissez vos boîtes dans le catalogue de SelfPackaging en fonction de vos goûts et de vos besoins.<br />
+2. Vous personnalisez la quantité, les couleurs et les accessoires qui vous plaisent le plus.<br />
+3. Vous recevez les boîtes prêtes à monter, avec l&#8217;aide de nos vidéos et conseils pratiques.</p>
+<p>Vous pouvez regarder cette vidéo pour savoir <a href="https://www.youtube.com/watch?v=sVx94LoIZ5U" target="_blank">Qui est SelfPackaging</a>.</p>
+<h4><span style="color: #33cccc;">Aviez-vous une boutique en ligne avant d&#8217;utiliser PrestaShop ?</span></h4>
+<p>Oui mais il s&#8217;agissait d&#8217;une plateforme sur mesure qui présentait de nombreuses limites, la plus importante étant qu&#8217;on ne pouvait pas développer notre activité.</p>
+<h4><span style="color: #33cccc;">Pourquoi et comment avez-vous choisi PrestaShop ?</span></h4>
+<p>Nous avons choisi PrestaShop car nous avions besoin d&#8217;une solution e-commerce qui nous permette de vraiment personnaliser la gestion des produits, tout en restant simple et facile d’utilisation. C&#8217;est une solution libre. Nous avons donc pu la personnaliser au maximum et l&#8217;adapter aux produits de SelfPackaging. Nous avons également pu adapter notre activité selon différentes langues puisque nous avons, en plus de selfpackaging.es, les versions web en anglais (selfpackaging.com) et en français (selfpackaging.fr).</p>
+<p><img class="aligncenter size-full wp-image-18510" src="http://www.prestashop.com/blog/en/files/2014/09/selfpackaging-2.png" alt="" width="550" height="522" /></p>
+<h4><span style="color: #33cccc;">Quelle est votre stratégie marketing pour attirer les clients sur votre page web ?</span></h4>
+<p>Je crois que nos points forts sont l’attention que nous portons à notre clientèle et la communauté que nous avons développée sur les réseaux sociaux. Nous avons créé notre produit nous-mêmes, en interne, nous le connaissons donc mieux que personne. Nous avons également quelques fans très fidèles !</p>
+<p><img class="aligncenter size-full wp-image-18511" src="http://www.prestashop.com/blog/en/files/2014/09/selfpackaging-3.png" alt="" width="550" height="349" /></p>
+<h4><span style="color: #33cccc;">Comment faites-vous pour qu&#8217;un visiteur devienne client ?</span></h4>
+<p>La base d’une relation de confiance, c’est de toujours bien s&#8217;occuper du visiteur, de lui simplifier la vie, et que cela reste rapide. Ce qui importe toujours le plus, c&#8217;est l&#8217;attention que l&#8217;on porte au client. Nous écoutons aussi ses besoins et nous nous efforçons de lancer des produits adaptés, en plus d&#8217;être les plus jolis et les moins chers possible, bien sûr !</p>
+<h4><span style="color: #33cccc;">Dans quelles régions du monde se trouvent vos clients ?</span></h4>
+<p>En général, nos clients sont concentrés en Espagne, mais nous nous sommes récemment lancés sur le marché international en ouvrant les sites web pour le Royaume-Uni et la France, dans l&#8217;optique de nous développer dans ces pays. Nous envisageons aussi de lancer un site pour l&#8217;Italie d&#8217;ici peu.</p>
+<p><img class="aligncenter size-full wp-image-18512" src="http://www.prestashop.com/blog/en/files/2014/09/selfpackaging-4.png" alt="" width="550" height="401" /></p>
+<h4><span style="color: #33cccc;">Y a-t-il autre chose que vous aimeriez partager avec nous ?</span></h4>
+<p>Notre produit phare, c&#8217;est les boîtes. C’est le cœur même de notre activité, et de notre boutique. Elles ont toutes un design particulier que nous adaptons aux différents besoins de nos clients.</p>
+<p>Rejoignez-nous sur les réseaux sociaux de SelfPackaging. Vous y trouverez des idées déco pour personnaliser vos boîtes : <a href="https://www.facebook.com/SelfPackaging" target="_blank">Facebook</a>, <a href="http://www.pinterest.com/selfpackaging/" target="_blank">Pinterest </a>et <a href="http://instagram.com/selfpackaging/" target="_blank">Instagram </a></p>
+<div>
+<hr align="left" size="2" width="20%" />
+</div>
+<p>Vous souhaitez créer une boutique en ligne comme celle de SelfPackaging ?<a href="http://www.prestashop.com/fr/telechargement" target="_blank"> Téléchargez PrestaShop</a> maintenant ou essayez notre version <a href="http://demo.prestashop.com/fr/" target="_blank">Demo </a>pour voir comment fonctionne la plateforme qui fera de votre idée la prochaine success-story.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/success-stories-selfpackaging-de-jolies-petites-boites/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Marketing vidéo et e-commerce</title>
+		<link>http://www.prestashop.com/blog/fr/marketing-video-et-e-commerce/</link>
+		<comments>http://www.prestashop.com/blog/fr/marketing-video-et-e-commerce/#comments</comments>
+		<pubDate>Mon, 22 Sep 2014 12:15:27 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17314</guid>
+		<description><![CDATA[Depuis l&#8217;année dernière, le marketing vidéo est de plus en plus important pour les distributeurs en ligne. La multiplication des contenus vidéo est liée en grande partie aux contraintes des images en 2D. Comme les visiteurs de votre site web &#8230; <a href="http://www.prestashop.com/blog/fr/marketing-video-et-e-commerce/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Depuis l&#8217;année dernière, le marketing vidéo est de plus en plus important pour les distributeurs en ligne. La multiplication des contenus vidéo est liée en grande partie aux contraintes des images en 2D. Comme les visiteurs de votre site web ne peuvent pas manipuler les articles, la vidéo est un moyen efficace de les rassurer et de limiter le nombre de produits retournés.</p>
+<p>Penchons-nous sur les avantages et les meilleures pratiques du marketing vidéo pour l&#8217;e-commerce, à l&#8217;aide de quelques exemples.</p>
+<p><img class="aligncenter size-large wp-image-17316" title="video-marketing" src="http://www.prestashop.com/blog/fr/files/2014/09/video-marketing-1024x537.png" alt="" width="584" height="306" /></p>
+<p><span id="more-17314"></span></p>
+<h2><span style="color: #028b6b;">Le marketing vidéo, un investissement rentable ?</span></h2>
+<p>De plus en plus de distributeurs en ligne retirent des avantages du marketing vidéo. Selon une <a href="http://www.reelseo.com/consumers-purchase-video/ " target="_blank">récente étude ReelSEO</a>, 73 % des consommateurs sont plus susceptibles d&#8217;acheter un produit après avoir visionné une vidéo. De plus, 96 % des sondés trouvent qu&#8217;il est plus facile de prendre une décision concernant un achat en ligne à l&#8217;aide d&#8217;une vidéo.</p>
+<p><img class="aligncenter size-full wp-image-17315" title="ReelSEO Video Marketing Image" src="http://www.prestashop.com/blog/fr/files/2014/09/ReelSEO-Video-Marketing-Image.png" alt="" width="575" height="526" /></p>
+<p style="padding-left: 30px;"><span style="color: #333333;"><strong>Les sites de vente au détail qui utilisent efficacement la vidéo bénéficient des avantages suivants :</strong></span></p>
+<p style="padding-left: 90px;"><span style="color: #c902c5;"><strong> -</strong></span> Présentation optimisée des produits<br />
+<strong><span style="color: #c902c5;">-</span></strong> Augmentation du temps passé sur le site<br />
+<strong><span style="color: #c902c5;">-</span></strong> Optimisation pour les moteurs de recherche<br />
+<strong><span style="color: #c902c5;">-</span></strong> Taux de retours réduits<br />
+<strong><span style="color: #c902c5;">-</span></strong> Hausse de la valeur moyenne du panier<br />
+<strong><span style="color: #c902c5;">-</span></strong> ITaux de conversion améliorés</p>
+<h2><span style="color: #028b6b;">Marketing vidéo et e-commerce : les meilleures pratiques</span></h2>
+<p>Les vidéos permettent d&#8217;offrir une expérience d&#8217;achat optimisée, renforçant l&#8217;engagement et boostant les conversions, sans pour autant détourner les visiteurs du processus d&#8217;achat.</p>
+<p style="padding-left: 60px;"><span style="color: #333333;"><strong>Quels sont les types de vidéos les mieux adaptés au e-commerce ?</strong></span></p>
+<p style="padding-left: 120px;"><strong><span style="color: #c902c5;"> -</span></strong> Produits en action<br />
+<strong><span style="color: #c902c5;">-</span></strong> Démonstrations de produit<br />
+<strong><span style="color: #c902c5;">-</span></strong> Tutoriels<br />
+<strong><span style="color: #c902c5;">-</span></strong> Vidéos d&#8217;explication<br />
+<strong><span style="color: #c902c5;">-</span></strong> Vidéos publicitaires<br />
+<strong><span style="color: #c902c5;">-</span></strong> Vidéos d&#8217;entreprise<br />
+<strong><span style="color: #c902c5;">-</span></strong> Blogs vidéo<br />
+<strong><span style="color: #c902c5;">-</span></strong> Témoignages vidéo</p>
+<p>Je vais maintenant vous présenter 3 excellents exemples d&#8217;entreprises qui incluent la vidéo dans leur stratégie marketing.</p>
+<h4><span style="color: #c902c5;">Produits en action</span></h4>
+<p><iframe src="//www.youtube.com/embed/Sh1Veb4xEi8" frameborder="0" width="400" height="225"></iframe><br />
+En ajoutant ce type de vidéo à ses pages produits, Zappos a observé une <strong>augmentation des ventes comprise entre 6 % et 30 %</strong>. Comme vous pouvez le constater, une simple vidéo de 10 secondes permet d&#8217;attirer l&#8217;attention sur les détails du produit.</p>
+<h4><span style="color: #c902c5;">Démonstrations de produit</span></h4>
+<p><iframe src="//www.youtube.com/embed/k7xy8x8YlnE" frameborder="0" width="560" height="315"></iframe></p>
+<p>Pour mettre en avant les caractéristiques et fonctionnalités de ses produits, Walmart propose des démonstrations vidéo, également disponibles sur la chaîne YouTube de l&#8217;enseigne. A l&#8217;heure actuelle, cette vidéo a été vue plus de 10 000 fois.</p>
+<h4><span style="color: #c902c5;">Vidéos d&#8217;entreprise</span></h4>
+<p><iframe src="//player.vimeo.com/video/72730264?color=ff6346" frameborder="0" width="500" height="213"></iframe></p>
+<p><a href="http://www.headict.co.uk/ " target="_blank">Headict</a>, une boutique PrestaShop, a mis en ligne une vidéo de présentation de l&#8217;entreprise directement sur la page d&#8217;accueil de son site. C&#8217;est une méthode très efficace pour fidéliser les clients et créer un lien entre eux et la marque.</p>
+<h2><span style="color: #028b6b;">Optimisation des vidéos pour le référencement</span></h2>
+<p>Aujourd&#8217;hui plus que jamais, Google donne priorité au contenu vidéo par rapport aux autres résultats. L&#8217;intégration de contenus vidéo permet ainsi d&#8217;optimiser efficacement et simplement votre référencement sur les moteurs de recherche. De plus, la publication de vidéos sur YouTube, le second plus important moteur de recherche en ligne, permet également d&#8217;attirer plus de trafic.</p>
+<p>L&#8217;article d&#8217;Econsultancy sur les <a href="https://econsultancy.com/blog/7919-e-commerce-product-videos-best-practice-tips#i.wxzlnujb1d85sd " target="_blank">meilleures pratiques pour les vidéos d&#8217;e-commerce</a> met en avant plusieurs <span style="color: #333333;"><strong>facteurs qui déterminent l&#8217;influence de vos vidéos en termes de référencement</strong> comme :</span></p>
+<p style="padding-left: 90px;"><strong><span style="color: #c902c5;">-</span></strong> Les métadonnées (titre de la vidéo et tags de description)<br />
+<strong><span style="color: #c902c5;">-</span></strong> Le nombre de commentaires et de partages<br />
+<strong><span style="color: #c902c5;">-</span></strong> Les liens retour<br />
+<strong><span style="color: #c902c5;">-</span></strong> Les données ajoutées<br />
+<strong><span style="color: #c902c5;">-</span></strong> Le nombre de vues<br />
+<strong><span style="color: #c902c5;">-</span></strong> Les notations et les signalements<br />
+<strong><span style="color: #c902c5;">-</span></strong> Les liens entrants</p>
+<h2><span style="color: #028b6b;">Ajout de vidéos à votre boutique PrestaShop</span></h2>
+<p>Si votre boutique en ligne repose actuellement sur la solution PrestaShop, vous pouvez très facilement intégrer des vidéos à votre site web.</p>
+<p><span style="color: #333333;"><strong>Voici quelques ressources pour vous aider :</strong></span></p>
+<p style="padding-left: 30px;"><strong><span style="color: #c902c5;">-</span></strong> <a href="http://www.prestashop.com/forums/topic/326248-solved-cannot-add-video-to-product-description/ " target="_blank">Sujet du forum PrestaShop</a><br />
+<strong><span style="color: #c902c5;">-</span></strong> <a href="http://addons.prestashop.com/fr/recherche?search_query=video" target="_blank">PrestaShop Addons</a></p>
+<p>&#8211;<br />
+Vous avez intégré des vidéos sur votre site e-commerce ? Partagez votre expérience ou posez des questions dans les commentaires ci-dessous.</p>
+<p>Vous n&#8217;êtes pas encore un utilisateur PrestaShop ? Créez gratuitement votre boutique en ligne en vous appuyant sur des fonctionnalités intégrées et sophistiquées de marketing en ligne. Testez la <a href="http://www.prestashop.com/fr/demo" target="_blank">démo</a> ou <a href="http://www.prestashop.com/fr/telechargement" target="_blank">téléchargez </a> PrestaShop pour vous lancer dès maintenant !</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/marketing-video-et-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>5 exemples de pages produits e-commerce qui convertissent.</title>
+		<link>http://www.prestashop.com/blog/fr/5-exemples-de-pages-produits-e-commerce-qui-convertissent/</link>
+		<comments>http://www.prestashop.com/blog/fr/5-exemples-de-pages-produits-e-commerce-qui-convertissent/#comments</comments>
+		<pubDate>Wed, 17 Sep 2014 16:19:55 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17200</guid>
+		<description><![CDATA[Internet est la porte d’entrée d’une offre colossale où les internautes sont de plus en plus exigeants. S’ils ne sont pas convaincus par vos fiches produits, ils délaisseront votre site pour ceux de vos concurrents.  Ainsi, vos fiches produits constituent &#8230; <a href="http://www.prestashop.com/blog/fr/5-exemples-de-pages-produits-e-commerce-qui-convertissent/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Internet est la porte d’entrée d’une offre colossale où les internautes sont de plus en plus exigeants. S’ils ne sont pas convaincus par vos fiches produits, ils délaisseront votre site pour ceux de vos concurrents.  Ainsi, vos fiches produits constituent un point critique dans la décision d’achat de vos visiteurs, elles ont le pouvoir de déclencher la vente ou au contraire de la freiner.</p>
+<p>La bonne nouvelle c’est qu’il existe de nombreuses astuces simples à mettre en place pour améliorer vos pages produits et booster vos ventes. Aujourd’hui, nous vous présentons des exemples de fiches produits qui intègrent chacune des éléments intéressants qui sauront vous inspirer.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-17201" src="http://www.prestashop.com/blog/fr/files/2014/09/product-page.png" alt="" width="578" height="303" /><br />
+<span id="more-17200"></span></p>
+<h3><span style="color: #ff9900;"><strong>Pourquoi les fiches produits sont-elles importantes ? </strong></span></h3>
+<p>Au-delà d’améliorer votre référencement, la fiche produit a pour but de convaincre le visiteur de passer à l’achat. Si nous faisons le parallèle avec un magasin traditionnel, elle remplace en quelque sorte votre vendeur. C’est elle qui apporte à vos clients :</p>
+<p style="padding-left: 30px;"><strong><span style="color: #000000;">- </span>Des informations</strong>. A l’inverse d’un magasin physique le client ne peut ni toucher ni voir le produit, c’est pourquoi il se reporte à la fiche produit pour obtenir un maximum d’informations (caractéristiques, fonctionnement, bénéfices)<br />
+<span style="color: #000000;"><strong>-</strong> </span><strong>De la réassurance</strong>. Une fiche produit complète et bien ficelée mettra en confiance votre visiteur qui n’aura pas de crainte à passer commande chez vous.</p>
+<h3><span style="color: #ff9900;"><strong>Les éléments clés d’une fiche produit efficace </strong></span></h3>
+<p style="padding-left: 30px;"><span style="color: #000000;"><strong>-</strong></span> Affichez des avis clients pour apporter de la crédibilité à vos produits.<br />
+<span style="color: #000000;"><strong>-</strong></span> Affichez la disponibilité du produit pour ne pas engendrer de la frustration.<br />
+<span style="color: #000000;"><strong>-</strong></span> <a href="http://www.prestashop.com/blog/fr/les-meilleures-pratiques-pour-des-boutons-daction-qui-convertissent/" target="_blank">Utilisez des boutons d’action</a> bien visibles avec un wording impactant.<br />
+<span style="color: #000000;"><strong>-</strong> </span>Pensez vitesse de chargement pour ne pas perdre les internautes impatients.<br />
+<span style="color: #000000;"><strong>-</strong> </span><a href="http://www.prestashop.com/blog/fr/guide-do-it-yourself-de-le-commerce-pour-de-parfaites-photos-de-produit/" target="_blank">Mettez en place des photos de qualité</a> présentant différentes vues du produit.<br />
+<span style="color: #000000;"><strong>-</strong></span> Des vidéos produits.<br />
+<span style="color: #000000;"><strong>-</strong></span> <a href="http://www.prestashop.com/blog/fr/augmentez-vos-ventes-en-ligne-8-astuces-pour-des-descriptions-produits-efficaces/" target="_blank">Rédigez des descriptions produits détaillées</a> pour améliorer votre référencement et fournir le plus d’informations possible à vos visiteurs.<br />
+<span style="color: #000000;"><strong>- </strong></span>Intégrez des éléments de réassurance pour mettre en confiance l’acheteur (numéro de téléphone, logos de paiement sécurisé, liens vers la <a href="http://www.prestashop.com/blog/fr/comment-rediger-une-politique-de-retours-produits-claire-et-efficace-pour-les-e-commercants/" target="_blank">politique de retour</a>).</p>
+<p>N’oubliez pas, pour améliorer vos fiches produits il vous faut tester ces différents éléments pour déterminer ceux qui fonctionnent le mieux pour votre boutique.</p>
+<h3><span style="color: #ff9900;"><strong>Exemples de pages produits efficaces </strong></span></h3>
+<h4 style="padding-left: 30px;"><span style="color: #ffcc00;"><strong>Garancia</strong></span></h4>
+<p style="text-align: center;"><img class="aligncenter  wp-image-17216" src="http://www.prestashop.com/blog/fr/files/2014/09/Garancia.png" alt="" width="578" height="287" /><a href="http://www.garancia-beauty.com/fr/14-diabolique-tomate-creme-eau.html#tiroir_num_0" target="_blank"><em>Voir la fiche produit complète</em></a></p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Que vendent-ils ?</strong></span></p>
+<p style="padding-left: 30px;">Le laboratoire Garancia offre des produits cosmétiques innovants à travers un univers magique.</p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Ce qu’on aime </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;"><strong>L’information complète</strong>. Sur cette fiche produit le visiteur sait tout de la crème : sa fonction, sa formule, ses ingrédients, comment l’utiliser, ses récompenses et où l’acheter. Pas de place pour le doute !</li>
+<li style="padding-left: 30px;"><strong>La vidéo de présentation du produit</strong>. La créatrice de Garancia nous présente la crème et ses bénéfices dans une vidéo courte de qualité professionnelle, de quoi  convaincre le plus sceptique des visiteurs.<strong></strong></li>
+<li style="padding-left: 30px;"><strong>Les éléments de réassurance. </strong>Les services Garancia<strong> </strong>rassurent la cliente pour lui permettre de finaliser son achat en toute sérénité. <strong></strong></li>
+</ul>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Ce qui pourrait être amélioré </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;">Rendre plus visible le prix.</li>
+<li style="padding-left: 30px;">Distinguer le bouton d’ajout au panier des autres boutons de la page pour le mettre plus en valeur.</li>
+</ul>
+<h4 style="padding-left: 30px;"><span style="color: #ffcc00;"><strong>TB Groupe</strong></span></h4>
+<p style="text-align: center;"><img class="aligncenter  wp-image-17217" src="http://www.prestashop.com/blog/fr/files/2014/09/TB-groupe.png" alt="" width="565" height="380" /><em><a href="http://www.tb-groupe.fr/fr/laguiole-expression-pom/111-bloc-magnetique-avec-5-couteaux-de-cuisine-laguiole.html" target="_blank">Voir la fiche produit complète</a></em></p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Que vendent-ils ?</strong></span></p>
+<p style="padding-left: 30px;">TB Groupe est le leader français de la coutellerie. Cette société familiale fabrique des produits de qualité depuis 5 générations.</p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Ce qu’on aime </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;"><strong>L’information sur le stock</strong>. Chez TB Groupe pas de frustration pour le client, la disponibilité est clairement indiquée sur la fiche produit. Et dans le cas de rupture de stock, la boutique propose de prévenir par mail le client dès que le produit est de nouveau disponible.</li>
+<li style="padding-left: 30px;"><strong>Les photos professionnelles</strong>. Les photos sont de grande qualité et présentent le produit sous différents angles pour apporter à l’internaute une vision claire de ce qu’il recevra en commandant le produit.<strong></strong></li>
+<li style="padding-left: 30px;"><strong>Les pictogrammes informatifs. </strong>Ces pictogrammes facilitent le choix du client, en un clin d’œil il obtient des informations importantes sur le produit et peut le comparer avec les autres produits de la boutique.<strong></strong></li>
+</ul>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Ce qui pourrait être amélioré </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;">Apporter plus d’informations dans la description produit. Il manque des informations claires sur les différences d’utilisation de chaque couteau.</li>
+</ul>
+<h4 style="padding-left: 30px;"><span style="color: #ffcc00;"><strong>Speak Louder</strong></span></h4>
+<p style="text-align: center;"><img class="aligncenter  wp-image-17228" src="http://www.prestashop.com/blog/fr/files/2014/09/speak-louder.png" alt="" width="661" height="211" /><em><a href="http://speakloudershop.com/index.php?id_product=197&amp;controller=product&amp;id_lang=1">Voir la fiche produit complète</a></em></p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong> Que vendent-ils ?</strong></span></p>
+<p style="padding-left: 30px;">Speak Louder est une boutique en ligne qui vend de jolies cravates et des nœuds papillon faits main.</p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Ce qu’on aime </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;"><strong>L’incentive de 5 % de réduction</strong>. Speak Louder offre 5% de réduction sur la commande si vous partagez le produit sur les réseaux sociaux. Parfait pour déclencher l’achat tout en donnant de la visibilité à son produit !<strong></strong></li>
+<li style="padding-left: 30px;"><strong>Le zoom clair et non pixélisé. </strong>Avec un zoom performant les clients peuvent observer les détails du produit et ainsi mieux se rendre compte de la qualité.<strong></strong></li>
+<li style="padding-left: 30px;"><a href="http://www.success-store.fr/vente/cross-selling-up-selling.php" target="_blank"><strong>Le cross-selling</strong></a><strong> ou ventes additionnelles. </strong>A la fin de la fiche produit sont présentés des produits similaires pour augmenter le panier du client.  <strong></strong></li>
+</ul>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Ce qui pourrait être amélioré </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;">Mettre davantage en avant le bouton d’ajout au panier.</li>
+<li style="padding-left: 30px;">Mettre en scène la cravate en la faisant porter par un mannequin. Cela rend le produit plus dynamique et permet de le montrer au mieux  pour susciter le désir de l’internaute.</li>
+</ul>
+<h4 style="padding-left: 30px;"><span style="color: #ffcc00;"><strong>Skinkin</strong></span></h4>
+<p style="text-align: center;"><img class="aligncenter  wp-image-17218" src="http://www.prestashop.com/blog/fr/files/2014/09/skinkin.png" alt="" width="548" height="314" /><em><a href="http://www.skinkin.com/en/15/1664-the-best-is-yet-iphone-5-skins.html" target="_blank">Voir la fiche produit complète</a></em></p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong> Que vendent-ils ?</strong></span></p>
+<p style="padding-left: 30px;">Skinkin vend des coques et skins personnalisées pour smartphones et tablettes.</p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Ce qu’on aime </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;"><strong>Le bouton d’action et le prix très visibles. </strong>Le bouton d’ajout au panier se distingue des autres boutons par sa taille et sa couleur.<strong> </strong></li>
+<li style="padding-left: 30px;"><a href="http://addons.prestashop.com/fr/recherche?search_query=chat+en+direct" target="_blank"><strong>Le chat en direct</strong></a><strong>. </strong>Un conseiller répond en direct aux questions et préoccupations des visiteurs pour leur permettre de finaliser leur achat. Ce module humanise le site et rassure les visiteurs. <strong></strong></li>
+<li style="padding-left: 30px;"><strong>Les bénéfices clairement énoncés. </strong>Les avantages du produit sont facilement assimilables en étant présentés sous forme de liste à puces. <strong></strong></li>
+</ul>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Ce qui pourrait être amélioré </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;">Diversifier les descriptions produits pour améliorer le référencement.</li>
+</ul>
+<h4 style="padding-left: 30px;"><span style="color: #ffcc00;"> <strong>JustFab</strong></span></h4>
+<p style="text-align: center;"><img class="aligncenter  wp-image-17236" src="http://www.prestashop.com/blog/fr/files/2014/09/justfab.png" alt="" width="553" height="369" /><em><a href="http://www.justfab.fr/index.cfm?action=shop.viewproduct&amp;pid=6989821&amp;ha=3AC3D73506DC1295ECD2502CA60D5652" target="_blank">Voir la fiche produit complète</a></em></p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong> Que vendent-ils ?</strong></span></p>
+<p style="padding-left: 30px;">JustFab propose des sacs et des chaussures de qualité à des prix très avantageux.</p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Ce qu’on aime </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;"><strong>Les avis clients. </strong>Ils sont beaucoup plus crédibles que le discours commercial de la marque<strong> </strong>et ont ainsi un impact fort dans la décision d’achat. <strong></strong></li>
+<li style="padding-left: 30px;"><strong>La vidéo. </strong>Encore une fois la vidéo met en valeur le produit pour donner envie à la cliente d’acheter la paire de chaussures.</li>
+<li style="padding-left: 30px;"><strong>Informations sur la politique de retours.</strong> JustFab promet une taille parfaite garantie avec des retours gratuits et échanges sans tracas.</li>
+</ul>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Ce qui pourrait être amélioré </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;">Mettre en valeur davantage le prix et surtout la réduction.</li>
+</ul>
+<p>Dite-nous lesquelles de ces bonnes pratiques vous avez mis en place sur votre boutique et si elles ont eu un impact sur votre taux de conversion. N’hésitez pas à nous faire partager d’autres astuces que nous aurions oubliées !</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p>
+<p>Du zoom sur les produits au cross selling, en passant par les avis clients et les informations de stock, le logiciel PrestaShop vous permet d’appliquer toutes ces bonnes pratiques sur vos fiches produits. Pas encore marchands PrestaShop ? <a href="http://www.prestashop.com/fr/telechargement" target="_blank">Téléchargez dès maintenant le logiciel PrestaShop</a>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/5-exemples-de-pages-produits-e-commerce-qui-convertissent/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>4 raisons de venir nous rencontrer sur le Village PrestaShop au Salon E-commerce</title>
+		<link>http://www.prestashop.com/blog/fr/4-raisons-de-venir-nous-rencontrer-sur-le-village-prestashop-au-salon-e-commerce/</link>
+		<comments>http://www.prestashop.com/blog/fr/4-raisons-de-venir-nous-rencontrer-sur-le-village-prestashop-au-salon-e-commerce/#comments</comments>
+		<pubDate>Wed, 17 Sep 2014 14:20:31 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Evènements]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17275</guid>
+		<description><![CDATA[Du 23 au 25 septembre 2014, le Salon E-commerce Paris réunira tous les acteurs majeurs de l’industrie e-commerce. Trois jours durant, PrestaShop sera présent sur un village de plus de 250 m2 exclusivement dédié à la création et au développement &#8230; <a href="http://www.prestashop.com/blog/fr/4-raisons-de-venir-nous-rencontrer-sur-le-village-prestashop-au-salon-e-commerce/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Du <strong>23 au 25 septembre 2014</strong>, le Salon E-commerce Paris réunira tous les acteurs majeurs de l’industrie e-commerce. Trois jours durant, PrestaShop sera présent sur un village de plus de <strong>250 m<sup>2 </sup>exclusivement dédié à la création et au développement de sites e-commerce</strong>. Amis marchands, développeurs et agences : <strong>notre équipe ainsi que nos 19 partenaires seront à votre écoute</strong> !</p>
+<p>Vous êtes tous conviés à nous rejoindre sur le Village PrestaShop pour échanger avec nous dans une ambiance conviviale.</p>
+<p>Découvrez pourquoi vous devez faire un arrêt sur le village PrestaShop !</p>
+<p><img class="aligncenter size-full wp-image-17276" src="http://www.prestashop.com/blog/fr/files/2014/09/e-commerce-fr-BO1.jpg" alt="" width="556" height="216" /></p>
+<p><span id="more-17275"></span></p>
+<h4><span style="color: #99cc00;"><strong>1 ) Obtenir un audit gratuit de votre site-e-commerce</strong></span></h4>
+<p>Bénéficiez de <strong>conseils personnalisés</strong> pour votre boutique sur notre stand dédié aux audits. Quatre experts PrestaShop et spécialistes e-commerce seront présents pendant les trois jours du salon pour vous apporter des axes d’amélioration et vous permettre de <strong>booster votre activité en ligne</strong>.</p>
+<h4><span style="color: #99cc00;"><strong>2 ) Rencontrer tout l’écosystème de la création et du développement d’une boutique en ligne</strong></span></h4>
+<p>L’équipe PrestaShop sera là au grand complet, accompagnée de 19 de ses partenaires : agences web, agences de référencement, partenaires de solutions de paiement, de logistique. <strong>Vous êtes sûrs de trouver le bon interlocuteur</strong> pour obtenir des réponses à vos questions, et qui sait ? Peut-être votre futur prestataire !</p>
+<h4><span style="color: #99cc00;"><strong>3 ) Participer à des conférences et des ateliers pour s’informer et se perfectionner</strong></span></h4>
+<p>PrestaShop et ses partenaires animeront des conférences et des ateliers tout au long du salon pour vous donner les<strong> clés de la réussite sur le web et vous partager les dernières tendances et actualités e-commerce</strong>. Rendez-vous en salle 2 !</p>
+<h4><span style="color: #99cc00;"><strong>4 ) Gagner des lots et des bons de réduction ! </strong></span></h4>
+<p>De belles surprises vous attendent sur le village PrestaShop. Un jeu sera organisé sur Twitter avec de <strong>nombreux lots à gagner</strong>. Les 3 meilleures légendes de photos du Village PrestaShop sur Twitter remporteront jusqu’à <strong>150€ de bons d’achat sur les modules PrestaShop Addons</strong> avec les hashtags #ECP14 #PrestaShop.</p>
+<p>Enfin vous pourrez venir récupérer un coupon exclusif de <strong>15 % de remise sur tout le catalogue PrestaShop Addons.</strong></p>
+<p>Nous vous attendons donc sur le Village PrestaShop, <strong>stand B041 et C041</strong> !</p>
+<p>Vous n’avez pas encore votre badge pour le Salon E-commerce ? Inscrivez-vous vite à l’évènement e-commerce de l’année !</p>
+<p><strong><a href="http://logi9.xiti.com/go.url?xts=496748&amp;xtor=AD-183&amp;url=http://badge.ecommerceparis.com/" target="_blank">S’inscrire</a></strong></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/4-raisons-de-venir-nous-rencontrer-sur-le-village-prestashop-au-salon-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>La boutique mode 29 N Under booste ses activités de 1000 % en passant de Facebook à PrestaShop</title>
+		<link>http://www.prestashop.com/blog/fr/la-boutique-mode-29-n-under-booste-ses-activites-de-1000-en-passant-de-facebook-a-prestashop/</link>
+		<comments>http://www.prestashop.com/blog/fr/la-boutique-mode-29-n-under-booste-ses-activites-de-1000-en-passant-de-facebook-a-prestashop/#comments</comments>
+		<pubDate>Mon, 08 Sep 2014 13:21:39 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Success Story]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17186</guid>
+		<description><![CDATA[Cette success story est consacrée à une boutique PrestaShop reposant sur un concept unique : celui de proposer exclusivement des « robes à moins de 29 $ ». Ainsi, aucun des produits de la boutique en ligne 29 N Under ne coûte plus de &#8230; <a href="http://www.prestashop.com/blog/fr/la-boutique-mode-29-n-under-booste-ses-activites-de-1000-en-passant-de-facebook-a-prestashop/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Cette success story est consacrée à une boutique PrestaShop reposant sur un concept unique : celui de proposer exclusivement des « robes à moins de 29 $ ». Ainsi, aucun des produits de la boutique en ligne <a href="http://www.29nunder.com/" target="_blank">29 N Under</a> ne coûte plus de 29 $. Jason Burlin, professionnel du marketing et copropriétaire de la marque, est à l&#8217;origine de ce modèle de tarification innovant, tandis que sa femme, Oryan Burlin, fashionista californienne, s&#8217;occupe de sélectionner des robes et des tenues originales.</p>
+<p><img class="aligncenter size-full wp-image-18366" src="http://www.prestashop.com/blog/en/files/2014/09/29-N-UNDER-SS-Main.png" alt="" width="600" height="315" /></p>
+<p>Porté par un sens aigu de la mode et une solide stratégie commerciale, ce duo a commencé à vendre des robes via une boutique Facebook. Après avoir adopté PrestaShop, le couple a vu ses activités prospérer et est désormais à la tête d&#8217;une boutique en ligne rentable ! Nous avons interviewé Jason pour en savoir plus sur la transformation de l&#8217;entreprise et les raisons de son succès.</p>
+<p><span id="more-17186"></span></p>
+<h4><span style="color: #b71683;">Pourquoi avez-vous choisi de migrer de Facebook vers PrestaShop ?</span></h4>
+<p>Nous nous sommes lancés sur Facebook pour tester le marché et voir s&#8217;il était possible de concrétiser notre projet qui semblait au départ un peu fou. Nous avons ainsi constaté que de nombreuses personnes s&#8217;intéressaient à notre concept et aux robes tendance que nous vendions. Au bout de six mois, nous traitions déjà 80 commandes par mois. Il était clair pour nous que nos activités progressaient et qu&#8217;il nous fallait un logiciel solide et un site Web personnalisé pour soutenir notre croissance.<strong> <strong>Nous sommes donc passés à PrestaShop, avec pour objectif de </strong>booster notre activité en ligne.</strong></p>
+<h4><span style="color: #b71683;">Comment se porte votre entreprise depuis l&#8217;ouverture de votre boutique PrestaShop ? </span></h4>
+<p>Nous sommes passés de 80 commandes par mois à environ un millier, ce qui représente, il me semble, une croissance de plus de 1 000 % depuis que nous avons adopté PrestaShop. Ce qui était au départ une idée audacieuse est désormais notre principale source de revenus. C&#8217;est incroyable ! Notre entreprise marche si bien que nous avons même pu embaucher ! Nous sommes désormais une équipe de <strong>10</strong> personnes à temps complet et partiel.</p>
+<h4><span style="color: #b71683;">Comment vous êtes-vous lancés dans la création de votre boutique PrestaShop ?</span></h4>
+<p>Nous avons recherché un développeur via oDesk et Elance. Après avoir consulté quelques profils et vérifié leurs références, nous avons choisi un développeur. Il nous a immédiatement suggéré d&#8217;utiliser PrestaShop pour sa convivialité et sa robustesse. Comme nous recherchions une solution rentable, il a insisté sur l&#8217;importance de choisir un logiciel qui ne nécessiterait pas des heures de développement.</p>
+<p>Cependant, c&#8217;est vraiment l&#8217;évolutivité de PrestaShop qui a fait pencher la balance. Nous sommes passés de Facebook à PrestaShop car notre première boutique avait atteint ses limites. Nous avions donc besoin d&#8217;une solution qui réponde à nos besoins actuels sans pour autant freiner notre croissance. Ainsi, même si nos activités se sont beaucoup développées au cours des deux dernières années, PrestaShop gère toujours facilement l&#8217;ensemble de nos commandes.</p>
+<h4><span style="color: #b71683;">Combien de temps vous a-t-il fallu pour monter votre boutique PrestaShop ? </span></h4>
+<p>Notre développeur est parvenu à concevoir notre boutique en une semaine. Cela a été très rapide, car nous avions déjà les catégories, descriptions et images de produits de notre boutique Facebook. Nous avons reçu notre première commande dès le lendemain du lancement ! Nos efforts ont rapidement porté leurs fruits et c&#8217;était très encourageant !</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-18367" src="http://www.prestashop.com/blog/en/files/2014/09/2-29-N-UNDER-SS-Product-Images.png" alt="" width="475" height="221" /></p>
+<h4><span style="color: #b71683;">En quoi votre boutique PrestaShop est-elle différente de celle que vous aviez sur Facebook ?</span></h4>
+<p>Sur Facebook, nous devions réaliser bon nombre de tâches manuellement. Le traitement des paiements était l&#8217;opération la plus fastidieuse, car il nous fallait nous déconnecter du site, puis nous reconnecter. Avec PrestaShop, nous avons configuré le <a href="http://addons.prestashop.com/fr/modules-paiement-prestashop/1748-paypal.html  target="_blank">module PayPal</a> intégré en quelques clics seulement. Nous pouvons donc désormais traiter les commandes directement depuis le back-office. Avec PrestaShop, <strong>tout est rationalisé</strong>. Les tâches manuelles sont limitées et nous gagnons du temps.<strong> </strong></p>
+<p><img class="aligncenter size-full wp-image-18368" src="http://www.prestashop.com/blog/en/files/2014/09/3-29-N-UNDER-SS-Newsletter-Sample.png" alt="" width="300" height="617" align="right" /></p>
+<h4><span style="color: #b71683;">Avez-vous personnalisé votre site avec des modules PrestaShop Addons ? </span></h4>
+<p>Nous avons adopté PrestaShop à partir de la version 1.4. Nous utilisons notamment quelques modules pour permettre aux clients d&#8217;être informés par email de la disponibilité d&#8217;un produit et pour ajouter les boutons de partage des réseaux sociaux aux pages produits. Cependant, le module auquel nous avons le plus recours est celui des <a href="http://addons.prestashop.com/fr/publicite-marketing-newsletter-modules/4932-newsletter-statistiques.html" target="_blank">newsletters</a>. Deux fois par semaine, nous envoyons des newsletters pour mettre en avant nos nouveaux produits et annoncer des soldes. Nous envoyons également des newsletters spécifiques pour les grandes périodes de promotions.</p>
+<p>Par exemple, nous avons envoyé une offre spéciale sur les vêtements patriotiques pour la fête nationale américaine. Dans ce mail, nous avons spécifiquement inclus les vêtements rouges, blancs et bleus. Comme la plupart de nos newsletters, cette initiative nous a permis de faire progresser le nombre de nos commandes de 10 %.</p>
+<h4><span style="color: #b71683;">En tant que spécialiste du marketing, quelles autres stratégies utilisez-vous pour augmenter le nombre de visites sur votre boutique en ligne ?</span></h4>
+<p>Notre stratégie marketing repose uniquement sur les réseaux sociaux. Actuellement, nous évaluons l&#8217;efficacité de <a href="https://www.facebook.com/29NUnder " target="_blank">Facebook</a> (par rapport aux autres réseaux sociaux) avec une promotion ciblée. L&#8217;opération étant toujours en cours, nous n&#8217;avons pas encore de résultats à communiquer. Nous nous appuyons également sur <a href="https://twitter.com/29nunder " target="_blank">Twitter</a> et <a href="http://instagram.com/29nunder/ " target="_blank">Instagram</a> pour promouvoir nos robes et tenues.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-18371" src="http://www.prestashop.com/blog/en/files/2014/09/4-29-N-UNDER-SS-FB-Sale.png" alt="" width="475" height="272" /></p>
+<p>[<strong>29 N Under compte près de 100 000 fans sur Facebook et plus de 25 000 abonnés sur Instagram </strong>! De plus, les personnes qui suivent la maque sur les réseaux sociaux contribuent activement à sa promotion. Ainsi, plus de 3 000 utilisateurs Facebook <a href="https://www.facebook.com/29NUnder/likes " target="_blank">parlent de l'enseigne</a> et chaque image postée par l'entreprise sur Instagram récolte en moyenne 750 « J'aime ».]</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-18372" src="http://www.prestashop.com/blog/en/files/2014/09/5-facebook-stats.png" alt="" width="428" height="290" /></p>
+<h4><span style="color: #b71683;">Comment avez-vous développé vos activités sur le Web ? Qu&#8217;est-ce qui différencie votre boutique en ligne ?</span></h4>
+<p>Bien que nous vendions des robes peu coûteuses, il est important pour nous d&#8217;offrir aux clients des produits et un service de qualité. Quand un client nous pose une question, nous lui répondons immédiatement, en particulier sur les réseaux sociaux. Nous faisons tout notre possible pour optimiser l&#8217;expérience client. Grâce à cette stratégie, <strong>20 % de nos clients sont des clients réguliers</strong>. De plus, même ceux qui n&#8217;effectuent pas de deuxième achat recommandent notre site.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-18373" src="http://www.prestashop.com/blog/en/files/2014/09/6-29-N-UNDER-SS-Customer-Service.png" alt="" width="475" height="298" /></p>
+<h4><span style="color: #b71683;">Quels sont vos projets pour l&#8217;avenir de 29 N Under ?</span></h4>
+<p>Nous aimerions ouvrir quelques magasins physiques, idéalement 3, dans de grandes villes américaines. Nous avons également hâte de passer à la <a href="http://www.prestashop.com/fr/download" target="_blank">dernière version de PrestaShop</a>. Grâce aux outils de statistiques et d&#8217;analyse, nous pourrons identifier les villes dans lesquelles nous vendons le plus (ce dont nous avons grandement besoin) et dans lesquelles nous sommes donc susceptibles d&#8217;ouvrir un magasin.</p>
+<div>
+<hr align="left" size="2" width="20%" />
+</div>
+<p>Déjà marchand ? Développez vos activités avec la solution e-commerce de PrestaShop ! <a href="http://www.prestashop.com/fr/download " target="_blank">Téléchargez le logiciel</a> dès aujourd&#8217;hui et lancez-vous dans la création de votre site e-commerce. Vous n&#8217;êtes pas encore prêt à ouvrir boutique en ligne ? Découvrez d&#8217;autres <a href="http://www.prestashop.com/blog/fr/category/success-story/" target="_blank">success stories PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/la-boutique-mode-29-n-under-booste-ses-activites-de-1000-en-passant-de-facebook-a-prestashop/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Salon e-commerce 2014 : Rencontrez PrestaShop à l&#8217;évènement e-commerce de l&#8217;année</title>
+		<link>http://www.prestashop.com/blog/fr/salon-e-commerce-2014-rencontrez-prestashop-a-levenement-e-commerce-de-lannee/</link>
+		<comments>http://www.prestashop.com/blog/fr/salon-e-commerce-2014-rencontrez-prestashop-a-levenement-e-commerce-de-lannee/#comments</comments>
+		<pubDate>Wed, 03 Sep 2014 14:19:40 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Evènements]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17156</guid>
+		<description><![CDATA[Cette année encore le Salon E-commerce Paris sera the place to be pour tous les acteurs de la vente en ligne. Serez-vous présent ? Nous oui ! Du 23 au 25 septembre 2014 PrestaShop installera ses quartiers stand N° B041 et C041 &#8230; <a href="http://www.prestashop.com/blog/fr/salon-e-commerce-2014-rencontrez-prestashop-a-levenement-e-commerce-de-lannee/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Cette année encore le <a href="http://www.ecommerceparis.com/">Salon E-commerce Paris</a> sera <em>the place to be</em> pour tous les acteurs de la vente en ligne. Serez-vous présent ? Nous oui ! Du <strong>23 au 25 septembre 2014 </strong>PrestaShop installera ses quartiers <strong>stand N° B041 et C041 </strong>sur un village exclusivement dédié à la création et au développement de votre boutique en ligne. Notre équipe ainsi que nos 19 partenaires seront à votre écoute, que vous soyez e-commerçants, développeurs, agences ou partenaires.</p>
+<p>Venez nous rencontrer sur le Village PrestaShop pour découvrir nos dernières nouveautés, nous poser toutes vos questions et même bénéficier d’audits gratuits de la part de l’équipe PrestaShop : deux stands seront exclusivement dédiés à ces audits.</p>
+<p><img class="aligncenter size-full wp-image-17157" src="http://www.prestashop.com/blog/fr/files/2014/09/e-commerce-fr-BO.jpg" alt="" width="556" height="216" /><br />
+<span id="more-17156"></span></p>
+<h4><span style="color: #ed2279; font-weight: bold;">Le Village PrestaShop en chiffres <strong>:</strong></span></h4>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>253</strong> </span><strong>m<sup>3</sup> de surface<br />
+<span style="color: #99cc00;">10</span> agences</strong> – <em>Kiwik, 123 monsite, My Web Shop, Web Alliance, Ad&#8217;ForAll, 202 e-commerce, Edatis, Antadis, Full Performance, Bm service.</em><br />
+<span style="color: #99cc00;"><strong>9</strong></span> <strong>partenaires</strong> – <em>Mondial Relay, Shopping Flux, PayPlug, So Colissimo-Quadra, PayMill, Profileo, MaPubFacile, Envoi Moins Cher, <em><em>Affinity Engine</em></em>.</em><br />
+<span style="color: #99cc00;"><strong>3</strong> </span><strong>stands généralistes</strong><br />
+<span style="color: #99cc00;"><strong>2</strong></span> <strong>stands audits<br />
+</strong><strong><span style="color: #99cc00;">500</span> cadeaux exclusifs </strong>à venir récupérer sur les stands PrestaShop</p>
+<h4><span style="color: #ed2279; font-weight: bold;">Des conférences et des ateliers pour s’informer et se perfectionner</span></h4>
+<p>Tous les jours, PrestaShop et ses partenaires animeront des ateliers solutions et des conférences pour vous accompagner vers le succès ! Rendez-vous en Salle 2 pour vous tenir informés des dernières nouveautés :</p>
+<p><strong><span style="color: #000000;">Mardi 23 Septembre- 16h15/17h00</span>,</strong></p>
+<p style="padding-left: 30px;"><strong>PrestaShop, l&#8217;e-commerce 3.0<br />
+</strong><em>Animé par Bruno Lévêque, co-fondateur de PrestaShop et Benjamin Teszner PDG de PrestaShop.</em></p>
+<p><span style="color: #000000;"><strong>Mercredi 24 Septembre  &#8211; 12h15/ 13h00, </strong></span></p>
+<p style="padding-left: 30px;"><strong>Achat mobile en un clic avec Powatag et PrestaShop: Redéfinissez les limites m-commerce de votre boutique en ligne<br />
+</strong><em>Animé par Eric Messin, Channel Director France chez Powatag et Grégoire Véron, Head of Partnerships chez PrestaShop</em></p>
+<p><span style="color: #000000;"><strong>Jeudi 25 Septembre &#8211; 14h45/15h30, </strong></span></p>
+<p style="padding-left: 30px;"><strong>Proposez une expérience d’achat fluide avec PayPal et PrestaShop<br />
+</strong><em>Animé par PayPal et Arnaud Bourboulon, Chief Revenue Officer, PrestaShop</em></p>
+<p><span style="color: #000000;"><strong>Jeudi 25 Septembre &#8211; 15h30/16h15</strong><strong>, </strong></span></p>
+<p style="padding-left: 30px;"><strong>Recommandations personnalisées sous PrestaShop : l’esprit commerçant au service de votre rentabilité.<br />
+</strong><em>Animé par Teddy Malfait, Directeur Général d’Affinity Engine et Arnaud Bourboulon, Chief Revenue Officer chez PrestaShop</em></p>
+<p>Nous vous attendons avec impatience sur le Village PrestaShop!</p>
+<p><a href="http://logi9.xiti.com/go.url?xts=496748&amp;xtor=AD-183&amp;url=http://badge.ecommerceparis.com/" target="_blank">Demandez votre badge !</a></p>
+<h4><span style="color: #ed2279; font-weight: bold;">Infos pratiques :</span></h4>
+<p><strong>Salon e-commerce Paris</strong><br />
+<strong>Quand</strong> : du 23 au 25 septembre 2014<br />
+<strong>Où </strong>: à Paris Porte de Versailles / PAVILLON 7-3<br />
+1 Place de la Porte de Versailles &#8211; 75015 PARIS</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/salon-e-commerce-2014-rencontrez-prestashop-a-levenement-e-commerce-de-lannee/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Critics’ Choice CMS Awards de CMS Critic : votez pour PrestaShop !</title>
+		<link>http://www.prestashop.com/blog/fr/critics-choice-cms-awards-de-cms-critic-votez-pour-prestashop/</link>
+		<comments>http://www.prestashop.com/blog/fr/critics-choice-cms-awards-de-cms-critic-votez-pour-prestashop/#comments</comments>
+		<pubDate>Tue, 02 Sep 2014 14:57:04 +0000</pubDate>
+		<dc:creator>Xavier du Tertre</dc:creator>
+				<category><![CDATA[Actualités PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17144</guid>
+		<description><![CDATA[Grâce aux nominations de la communauté, PrestaShop figure parmi les finalistes de deux catégories des Critics’ Choice CMS Awards 2014 de CMS Critic. Aidez-nous en votant sans plus attendre. Cela ne prend qu&#8217;une minute. Votre vote compte pour nous ! &#8230; <a href="http://www.prestashop.com/blog/fr/critics-choice-cms-awards-de-cms-critic-votez-pour-prestashop/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Grâce aux nominations de la communauté, PrestaShop figure parmi les finalistes de deux catégories des Critics’ Choice CMS Awards 2014 de CMS Critic.</p>
+<p>Aidez-nous en <a href="http://awards.cmscritic.com/vote" target="_blank">votant sans plus attendre</a>. Cela ne prend qu&#8217;une minute.<br />
+<img class="aligncenter size-large wp-image-17154" title="cms-critic-awards" src="http://www.prestashop.com/blog/fr/files/2014/09/cms-critic-awards1-1024x537.jpg" alt="" width="584" height="306" /></p>
+<h4><span style="color: #3366ff;">Votre vote compte pour nous ! </span></h4>
+<p style="padding-left: 30px;"><span style="color: #333333;"><strong>Merci de voter pour PrestaShop dans les catégories suivantes :</strong></span><br />
+- Best eCommerce Solution for SMB<br />
+- Best eCommerce Solution for Enterprise</p>
+<p>Pour voter, rendez-vous à l&#8217;adresse suivante : <a href="http://awards.cmscritic.com/vote" target="_blank">http://awards.cmscritic.com/vote</a></p>
+<p>Merci de voter pour nous ! Faites passer le mot sur les réseaux sociaux en cliquant sur les boutons de partage au bas de ce billet. Nous vous tiendrons informés des résultats.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/critics-choice-cms-awards-de-cms-critic-votez-pour-prestashop/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk: basic
+Page Caching using disk: enhanced
+
+Served from: www.prestashop.com @ 2014-10-07 19:56:01 -->
